@@ -1,8 +1,10 @@
-Project Overview
+# Project Overview
 
 This project builds a machine‑learning model to predict whether a borrower will default on a loan. It follows a realistic credit‑risk workflow: data cleaning, feature selection, model training, handling class imbalance, and evaluating performance.
 
+
 1. What I Did
+   
 Cleaned and prepared the dataset
 
 Selected financial features such as DTI, credit score, income, loan amount, and more
@@ -13,7 +15,9 @@ Used SMOTE to balance the dataset and improve detection of default cases
 
 Evaluated the model using precision, recall, and F1‑score
 
+
 2. Key Insights
+   
 All non default(0) cases are detected, with a precision level of 94%
 
 Only 4% of default cases are detected, with a precision level of 7%
@@ -24,15 +28,20 @@ Balancing the data helped the model start identifying defaults
 
 The project demonstrates real‑world challenges in credit‑risk modeling
 
+
 3. Tools Used
+   
 Python (pandas, scikit‑learn, imbalanced‑learn)
 
+
 4. What I Learned
+   
 How to train and evaluate a classification model
 
 How to handle imbalanced datasets using SMOTE
 
 How to interpret model performance beyond accuracy
+
 
 5. Machine Learning Output
    
