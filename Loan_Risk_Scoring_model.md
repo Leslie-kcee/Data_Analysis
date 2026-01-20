@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 This project builds a simple loan risk model using borrower information. The goal was to create a basic scoring system, analyze patterns, and visualize how different factors relate to loan risk.
 
