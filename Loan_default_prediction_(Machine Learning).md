@@ -18,15 +18,13 @@ Evaluated the model using precision, recall, and F1‑score
 
 2. Key Insights
    
-All non default(0) cases are detected, with a precision level of 94%
+-All non default(0) cases are detected, with a precision level of 94%
 
-Only 4% of default cases are detected, with a precision level of 7%
+-Only 4% of default cases are detected, with a precision level of 7%
 
-The dataset was highly imbalanced, which made default cases hard to detect
+-The dataset was highly imbalanced, which made default cases hard to detect. Balancing the data helped the model start identifying defaults
 
-Balancing the data helped the model start identifying defaults
-
-The project demonstrates real‑world challenges in credit‑risk modeling
+-The project demonstrates real‑world challenges in credit‑risk modeling
 
 
 3. Tools Used
