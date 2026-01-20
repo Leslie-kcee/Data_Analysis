@@ -1,8 +1,9 @@
-Project Overview
+# Project Overview
 
 This project analyzes US inflation trends using CPI (Consumer Price Index) data. The goal was to clean the dataset, build clear visualizations, and explain how inflation changed over time.
 
 1. What I Did
+   
 Cleaned and organized CPI data in Excel
 
 Built line charts to show inflation trends
@@ -12,6 +13,7 @@ Calculated month‑to‑month and year‑to‑year changes
 Summarized key insights in simple language
 
 2. Key Insights
+   
 Identified periods of rising and falling inflation
 
 Highlighted major trend shifts
@@ -29,14 +31,17 @@ Detailed analaysis
 
 
 3. Tools Used
+   
    Python, Jupyter and Notebook (data cleaning, charts, analysis)
 
-4. What I Learned
+5. What I Learned
+
 How to clean time‑series data
 
 How to build clear visualizations
 
 How to communicate economic trends simply and accurately
+
 
 5. Visualization
 
