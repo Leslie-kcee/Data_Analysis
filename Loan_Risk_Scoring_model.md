@@ -42,7 +42,7 @@ iii. Analysis of Risk Category distribution by Credit points
 
 
 3. Tools Used
-Excel (formulas, pivot tables, charts)
+python and Excel (formulas, pivot tables, charts)
 
 4. What I Learned
 How to design a simple risk model
@@ -51,7 +51,7 @@ How to interpret patterns in borrower data
 
 How to present findings clearly and visually
 
-
+4. Visualization
 CLEANING DATA PREVIEW
 <img width="1920" height="1080" alt="Cleaned data preview " src="https://github.com/user-attachments/assets/1ef95438-a5e4-4a78-90d9-324595e0e0f2" />
 
